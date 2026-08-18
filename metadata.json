@@ -1,0 +1,6 @@
+{
+  "name": "Xenia-Android",
+  "description": "Real Xenia Canary Xbox 360 emulator port for Android ARM64 with Vulkan graphics, MediaTek & Mali compatibility, game library, covers, and multi-controller support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
